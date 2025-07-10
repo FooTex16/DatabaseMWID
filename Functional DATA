@@ -1,0 +1,178 @@
+[Name    ]     		[ID         ]
+====[Block]====
+[Functional]
+Light beam		351
+celesthium light beamer	352
+not gate		353
+and gate		354
+or gate 		355
+celesthium diverted	356
+celesthium delayer	357
+swicth			358
+transducer touch	359
+transducer ordinary	360
+transducer creature	361
+transducer sandstone 	362
+button touch		363
+button ordinary		364
+celesthium blocker 	365
+celesthium counter	366
+robot arm		367
+push pull robot arm	368
+collection pipe		369
+transmission pipe	370
+detection pipe		371
+celesthium booster	372
+celesthium comparator	374
+celesthium block	415
+ostrich egg		462
+palette stand		498
+altar			580
+weather forecaster	581
+leopard sleedping bag	582
+star station console	594
+bass block		690
+alto block		691
+treble block		692
+instrument drum 	693
+instrument electron	694
+instrument symphony	695
+acyclic electron 	696
+loop drum		697
+loop electron 		698
+loop ambient 		699
+spike trap 		721
+thrower			722
+peach totem		723
+rail node		725
+piano			726
+kntc enery boost node	729
+dance hall		780
+rune table		785
+stone pot		794
+mithril pan		795
+crafting table		797
+mithril smelting table	798
+coper smelting table	799
+incomple crafting table	800
+storage box		801
+smelting table		802
+light door		812
+cordage			813
+mithril door		814
+brass celesthium screen	815
+mithril spring 		842
+flamo spring 		844
+boarman toten		901
+wild jockey totem	902
+spear goblin totem	903
+bat totem		904
+boom egg totem		906
+lava giant totem	908
+sulfiur archer totem	909
+dodo totem 		910
+volvo totem		911
+tonton totem 		912
+deer totem		913
+wolf totem		915
+flamasian totem		917
+public spawn point 	990
+red team sp		991
+blue team sp		992
+green team sp		993
+yellow team sp		994
+orange team sp		995
+purple teeam sp		996
+shiny block		997
+copier			1000
+invisible wall block	1001
+marker (-)		1004
+marker (+)		1005
+sliding block 		1008
+rotor block		1010
+signpost public		1011
+stop signpost		1012
+invisible wall bullet	1018
+starry trophy		1021
+red team sgn		1026
+blue team sgn		1027
+green team sgn		1028
+yellow team sgn		1029
+orange team sgn		1030
+purple team sgn		1031
+sensor block		1032
+calculator		1033
+celesthium blocker	1034
+random supply jar	1035
+touch block		1037
+creature triger block	1038
+score block		1039
+ball triger block	1040
+horas totem		1042
+oxy refiner device	1045
+signal generator	1052
+signal receiver		1053
+signal resolver		1054
+area duplication block	1062
+blueprint crafting tbl	1063
+rangefinder		1066
+pysics trigger block	1067
+hoop block		1068
+mob generator block	1080
+invs wall pysic item	1081
+steering wheel		1083
+driver seat		1084
+machine workshop	1085
+power wheel 		1087
+fuel engine		1089
+unlimited engine	1090
+passenger seat		1091
+sequence editor		1092
+impeller 001		1093
+wing unit		1094
+empennage		1095
+hinge block 		1159
+griper			1160
+hydraulic arm		1161
+shock absorber		1164
+infrared sensor block	1168
+light sensor		1169
+large box horizontal	1180
+large box vertical	1181
+celesthium oscillator	1182
+yellow brick transducer	1183
+celesthium booth	1184
+rudder			1188
+spiral thursted		1189
+bucket float		1190
+light sensor		1169
+stele			1201
+farmer flag		1203
+woodman flag		1204
+guardian flag		1205
+ocean cabinet		1231
+devilfall spoils	1389
+feed trough 		1753
+wireless pedal		1990
+parallel converter	1991
+pudding			1992
+teleportation belt	1993
+hunting flag		150002
+wild hunting flag	150003
+bulding flag		150004
+wild building flag	150005
+wild woodman flag	150006
+glittering rod		150013
+fusion bench		150029
+wild farmer flag	150044
+wild guardian flag	150045
+frozen device		150046
+manual launcher		200002
+clip trap		200004
+signpost		200005
+stonme pot		200108
+mithril pan		200109
+podium			390002
+classroom door		390007
+school locker		390008
+sport field fence gate 	390022
